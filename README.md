@@ -2,11 +2,11 @@
 Program that can find the most used words in a chosen subreddit
 
 ## Installation
-Step 1:
+**Step 1:**
 
     pip install -r requirements.txt
     
-Step 2:
+**Step 2:**
 
 Enter Client ID and Secret in ```config/creds.ini``` ([Help](https://github.com/reddit-archive/reddit/wiki/OAuth2-Quick-Start-Example#first-steps))
 ## Usage

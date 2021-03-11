@@ -4,7 +4,7 @@ import time
 r = reddit.Reddit()
 if __name__ == "__main__":
 
-    print("Keyword Trends Bot")
+    print("Keyword Trends")
     print("*"*30)
     time.sleep(1)
     print("Choose an option:\n"
